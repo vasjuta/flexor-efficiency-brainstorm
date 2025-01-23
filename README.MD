@@ -1,5 +1,6 @@
 # Flexor Efficiency Improvement Proposal
-# Flexor Efficiency Improvement Proposal
+
+For a quick overview, see the [Executive Summary](README_SHORT.md).
 
 - [Starting Assumptions](#starting-assumptions)
   - [Current System](#current-system)
